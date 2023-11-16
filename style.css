@@ -1,16 +1,17 @@
+
 body {
-    font-family: Baumans, Arial, sans-serif;
+ font-family: Quicksand, Arial, sans-serif;
     margin: 0;
     padding: 0;
 }
-
-
 header {
     background-color: #619FD6;
+    font-family: Baumans, Arial, sans-serif;
     color: white;
     text-align: center;
     padding: 1em 0;
 }
+
 
 nav ul {
     list-style-type: none;
@@ -18,30 +19,37 @@ nav ul {
 }
 
 nav ul li {
+font-family: Baumans, Arial, sans-serif;
     display: inline;
     margin-right: 20px;
 }
 
 nav a {
     text-decoration: none;
+    font-family: Baumans, Arial, sans-serif;
     color: white;
     font-weight: bold;
 }
 
 section {
     margin: 20px;
+    font-family: Quicksand, Arial, sans-serif;
 }
 
 .hero {
-    text-align: center;
+    text-align:left;
+    font-family: Quicksand, Arial, sans-serif;
 }
 
 footer {
     background-color: #619FD6;
     color: white;
+    font-size:15px;
     text-align: center;
-    padding: 1em 0;
+    padding: 0.2em 0;
     position: fixed;
     bottom: 0;
     width: 100%;
 }
+
+
