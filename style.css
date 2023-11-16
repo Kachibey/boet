@@ -15,13 +15,13 @@ header {
 
 nav ul {
     list-style-type: none;
-    padding: 0;
+    padding: 4;
 }
 
 nav ul li {
 font-family: Baumans, Arial, sans-serif;
     display: inline;
-    margin-right: 20px;
+    margin-right: 27px;
 }
 
 nav a {
