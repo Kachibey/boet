@@ -9,19 +9,19 @@ header {
     font-family: Baumans, Arial, sans-serif;
     color: white;
     text-align: center;
-    padding: 1em 0;
+    padding: 0.7em 0;
 }
 
 
 nav ul {
     list-style-type: none;
-    padding: 4;
+    padding: 2;
 }
 
 nav ul li {
 font-family: Baumans, Arial, sans-serif;
     display: inline;
-    margin-right: 27px;
+    margin-right: 32px;
 }
 
 nav a {
